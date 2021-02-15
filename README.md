@@ -1,6 +1,6 @@
 # REST API
 
-###Running the application
+### Running the application
 
 ```
 mvn spring-boot:run
